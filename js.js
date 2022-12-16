@@ -25,4 +25,4 @@ let generatePattern = () => {
 };
 
 btn.addEventListener("click", generatePattern);
-window.addEventListener("load", generatePattern);
+window.addEventListener("load", generatePattern); 
